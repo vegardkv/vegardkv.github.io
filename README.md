@@ -1,1 +1,0 @@
-# vegardkv.github.io
