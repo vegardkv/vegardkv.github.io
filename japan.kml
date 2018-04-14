@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Visited</name>
+  <visibility>1</visibility>
+  <Placemark>
+    <name>Tokyo Metropolitan Government Main Building 2</name>
+    <TimeStamp><when>2017-04-05T15:49:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.6915,35.688288</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>HUB</name>
+    <TimeStamp><when>2017-04-06T14:27:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70207,35.690251</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>KINNO-KURA</name>
+    <TimeStamp><when>2017-04-06T14:30:50Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70217,35.690613</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nanako House</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.78002,35.017721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>神宮丸太町</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.77248,35.017084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Yulala</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.76404,35.00108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hotel Taiken Inn Nijojo</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.7497,35.017801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hakone-Yumoto</name>
+    <TimeStamp><when>2017-04-10T00:13:02Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.10366,35.23337</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hakonemachi</name>
+    <TimeStamp><when>2017-04-10T00:13:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.02458,35.190028</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Motohakone-ko</name>
+    <TimeStamp><when>2017-04-10T00:13:12Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.03059,35.200978</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Odawara</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>139.15588,35.256101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mishima</name>
+    <TimeStamp><when>2017-04-10T00:21:31Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>138.91131,35.126684</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.77135,35.627714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nihon kagaku mirai kan</name>
+    <TimeStamp><when>2017-04-10T00:23:34Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.77694,35.619614</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shin-Fuji</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>138.66346,35.142131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Higashi-Shizuoka</name>
+    <TimeStamp><when>2017-04-10T00:49:30Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>138.4137,34.984596</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Toyohashi</name>
+    <TimeStamp><when>2017-04-10T01:38:08Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.39145,34.769136</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>JR貨物 西浜松駅</name>
+    <TimeStamp><when>2017-04-10T01:41:40Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.71603,34.693909</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kakegawa</name>
+    <TimeStamp><when>2017-04-10T01:42:07Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>138.0145,34.769314</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mikawa-Anjō</name>
+    <TimeStamp><when>2017-04-10T01:56:29Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.06142,34.970277</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nagoya</name>
+    <TimeStamp><when>2017-04-10T02:03:17Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>136.88388,35.171304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hida-Kanayama</name>
+    <TimeStamp><when>2017-04-10T04:02:26Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.1646,35.661957</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>下麻生</name>
+    <TimeStamp><when>2017-04-10T04:06:32Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.08708,35.514901</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hida-Miyada</name>
+    <TimeStamp><when>2017-04-10T04:43:29Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.23555,35.928449</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Takayama</name>
+    <TimeStamp><when>2017-04-10T04:43:53Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>137.25132,36.141145</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shigeharu</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.7521,35.009176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nishiki Market</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.76391,35.004997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hirayu Bus Station</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>137.55193,36.190953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shinhotakaonsen</name>
+    <TimeStamp><when>2017-04-11T01:01:07Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>137.5752,36.285811</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hodakaso Sanganoyu</name>
+    <TimeStamp><when>2017-04-11T01:01:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>137.55305,36.192466</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Club world</name>
+    <description>(The Northern Lights Corner)</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.76918,35.00404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <description>AirBnB</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.7522,34.980326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Path</name>
+    <description>Laundromat</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.75697,34.982005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>To-ji Temple</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.74771,34.981183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Subway</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.76027,34.987279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.78499,34.992997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Temple</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.77521,34.990408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Inizio percorso Higashiyama sud</name>
+    <TimeStamp><when>2017-04-13T03:45:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.78354,34.995055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kodai-ji</name>
+    <TimeStamp><when>2017-04-13T23:57:24Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.7812,35.000869</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Building</name>
+    <description>Geisha show</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.79249,35.037425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kyoto Imperial Palace Park</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.76352,35.023312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ryōanji Temple</name>
+    <TimeStamp><when>2017-04-14T00:03:54Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.71806,35.033493</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kinkakuji (金閣寺, Golden Pavilion)</name>
+    <TimeStamp><when>2017-04-14T00:06:48Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.72852,35.039586</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shin Osaka</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>135.50182,34.733399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Himeji Castle</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>134.694,34.83935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Himeji</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>134.69031,34.827082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <description>AirBnB</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.44604,34.393724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hiroshima Peace Memorial Park</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.45172,34.393052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hiroshima Peace Memorial Museum</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.45307,34.391521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hiroshima train station</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.47608,34.398006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kappabashi Kitchen Town</name>
+    <TimeStamp><when>2017-04-15T09:16:36Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.78888,35.714262</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <description>Knivsjappe</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>132.45924,34.392318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fukuyama</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>133.36189,34.48934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Okayama</name>
+    <TimeStamp><when>2017-04-15T09:37:19Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>133.91836,34.666896</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Mi Sen</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.31961,34.279592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miyajima Ferry Terminal</name>
+    <TimeStamp><when>2017-04-17T04:02:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.32227,34.302096</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Round 1</name>
+    <TimeStamp><when>2017-04-17T04:02:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>132.46015,34.393893</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shinsaibashi</name>
+    <TimeStamp><when>2017-04-17T04:05:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.49982,34.675344</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hotel Villa Fontaine Osaka-Shinsaibashi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.50168,34.675869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Umeda Sky Building</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>135.48992,34.705407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>APA Hotel Ginza Kyobashi</name>
+    <TimeStamp><when>2017-04-18T03:14:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.7705,35.675123</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Advertising Museum</name>
+    <description>Utkikkspunkt</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.7624,35.664419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ishibashi Gakki</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.69738,35.66109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ichiran Noodle</name>
+    <TimeStamp><when>2017-04-26T19:28:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70285,35.690576</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ichiran</name>
+    <TimeStamp><when>2017-04-26T19:29:24Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70099,35.661129</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nagi</name>
+    <TimeStamp><when>2017-04-26T19:29:43Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70456,35.693761</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tsunahachi</name>
+    <TimeStamp><when>2017-04-26T19:30:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70342,35.6908</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tsukiji Fish Market</name>
+    <TimeStamp><when>2017-04-26T19:30:34Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.76982,35.661499</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Imperial Palace</name>
+    <TimeStamp><when>2017-04-26T19:32:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.75553,35.679672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Shinjuku Golden Gai</name>
+    <TimeStamp><when>2017-04-26T19:32:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70465,35.693915</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tower Records</name>
+    <TimeStamp><when>2017-04-26T19:33:13Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70101,35.661931</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Akihabara</name>
+    <TimeStamp><when>2017-04-26T19:33:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.77526,35.702134</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tokyo National Museum</name>
+    <TimeStamp><when>2017-04-26T19:38:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.77628,35.71881</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kawaii Monster Cafe</name>
+    <TimeStamp><when>2017-04-26T19:39:32Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70606,35.669078</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cat Cafe Calico</name>
+    <TimeStamp><when>2017-04-26T19:39:57Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70205,35.693647</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>APA Hotel Higashi Shinjuku Kabukicho</name>
+    <TimeStamp><when>2017-04-26T19:41:58Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>139.70475,35.698054</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
